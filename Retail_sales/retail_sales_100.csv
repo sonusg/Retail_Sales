@@ -1,0 +1,101 @@
+order_id,region,category,sales_amount,profit,month
+1,South,Furniture,604,1396,Aug
+2,East,Office Supplies,4813,136,May
+3,West,Furniture,4771,849,Apr
+4,West,Office Supplies,2200,603,Aug
+5,East,Furniture,2956,1080,Jun
+6,South,Technology,1868,-193,Feb
+7,East,Furniture,1660,424,Apr
+8,West,Office Supplies,3836,1076,Dec
+9,North,Furniture,2924,518,Nov
+10,North,Furniture,4378,102,Apr
+11,East,Furniture,2248,438,Jun
+12,West,Technology,4346,-145,Jun
+13,North,Furniture,4980,525,Jan
+14,West,Technology,916,325,Aug
+15,East,Technology,4744,273,Jun
+16,North,Furniture,4783,-173,Mar
+17,West,Furniture,2023,-123,Sep
+18,North,Furniture,2281,1039,Feb
+19,East,Office Supplies,3619,1209,Nov
+20,West,Furniture,1774,164,Aug
+21,North,Technology,449,465,Oct
+22,East,Furniture,873,325,Mar
+23,North,Office Supplies,4733,498,Dec
+24,North,Furniture,2365,1135,May
+25,South,Office Supplies,970,682,Jun
+26,South,Office Supplies,4162,830,Oct
+27,East,Furniture,4563,826,Jun
+28,South,Technology,2184,1446,Apr
+29,East,Office Supplies,1277,718,Mar
+30,South,Furniture,435,549,Apr
+31,North,Furniture,588,162,Jan
+32,East,Technology,3237,1331,Apr
+33,East,Office Supplies,2048,1097,Jan
+34,North,Office Supplies,4919,1329,Dec
+35,East,Furniture,3014,605,Jan
+36,East,Furniture,3574,538,Oct
+37,South,Technology,3478,838,Jun
+38,East,Technology,1452,1015,May
+39,West,Office Supplies,4181,1454,Nov
+40,North,Office Supplies,4873,284,Apr
+41,South,Furniture,2322,-173,Nov
+42,South,Office Supplies,4730,513,Mar
+43,West,Technology,2350,862,Jan
+44,North,Technology,1529,1096,Jun
+45,North,Furniture,1558,1054,Feb
+46,South,Technology,2682,-115,Aug
+47,East,Technology,4742,1297,Oct
+48,South,Technology,2217,-75,May
+49,North,Technology,1531,611,Jul
+50,West,Furniture,4544,336,Oct
+51,South,Furniture,4461,-56,Dec
+52,North,Office Supplies,1558,1348,Feb
+53,South,Technology,4837,1035,Aug
+54,East,Office Supplies,3377,-176,Feb
+55,South,Furniture,2328,1403,Apr
+56,South,Furniture,2380,1217,Jan
+57,North,Furniture,337,-134,May
+58,North,Furniture,3672,32,Sep
+59,North,Furniture,3032,-92,Jan
+60,South,Furniture,3779,969,Sep
+61,East,Furniture,3231,-90,Nov
+62,West,Technology,4364,27,Aug
+63,West,Office Supplies,2793,-90,Jun
+64,North,Furniture,4500,1293,Jul
+65,North,Technology,4018,-167,Mar
+66,South,Technology,4338,422,Jan
+67,West,Office Supplies,4023,1192,May
+68,North,Furniture,4242,547,Dec
+69,East,Office Supplies,2106,394,Dec
+70,East,Furniture,960,1377,Feb
+71,North,Technology,3645,224,May
+72,North,Technology,1099,412,Aug
+73,West,Technology,4655,1341,Nov
+74,West,Technology,3147,491,Sep
+75,South,Office Supplies,1919,1105,Feb
+76,West,Furniture,480,1143,Dec
+77,East,Furniture,3466,1266,Mar
+78,East,Office Supplies,2087,114,Mar
+79,North,Furniture,3466,676,Jan
+80,West,Technology,866,1200,Aug
+81,South,Furniture,4388,1112,Jun
+82,East,Technology,871,1260,Dec
+83,East,Office Supplies,2169,461,Aug
+84,South,Furniture,4356,76,Nov
+85,South,Office Supplies,3322,1405,Sep
+86,East,Furniture,4899,1326,May
+87,East,Technology,4977,423,Dec
+88,South,Office Supplies,4100,315,Mar
+89,East,Furniture,723,1173,May
+90,North,Technology,2593,642,May
+91,North,Office Supplies,3317,1269,May
+92,South,Office Supplies,2793,149,Mar
+93,West,Furniture,2168,1430,Nov
+94,South,Furniture,1953,1487,Oct
+95,South,Furniture,2496,622,Apr
+96,West,Technology,2461,960,Sep
+97,West,Furniture,2486,558,Oct
+98,West,Office Supplies,4402,698,Sep
+99,North,Office Supplies,3078,42,Feb
+100,East,Furniture,4343,342,Aug
